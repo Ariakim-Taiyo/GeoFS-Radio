@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS Radio
 // @namespace    https://github.com/Ariakim-Taiyo/GeoFS-Radio
-// @version      0.1
+// @version      0.1.3
 // @description  Adds a VHF Radio to GeoFS
 // @author       AriakimTaiyo
 // @match        https://geo-fs.com/geofs.php*
