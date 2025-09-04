@@ -1,7 +1,7 @@
 # GeoFS-Radio
 
 It's literally just a radio...
-
+**PLEASE READ THE FULL README BEFORE USE!**
 ## Features:
 - Full COMM airband frequency selection for realistic ATC ops.
 - Line-of-Sight signal degradation
@@ -11,6 +11,7 @@ It's literally just a radio...
 
 ## Requirements:
 - **BY USING THIS PLUGIN, YOU CONFIRM THAT YOU ARE OVER THE AGE OF 13.**
+- You MUST use Google Chrome for this addon to work. Firefox does not seem to work at this time.
 - You NEED a microphone in order to connect. If you do not have one, you will not be able to connect to the network.
 - You NEED a stable internet connection
 - You SHOULD familiarize yourself with proper radio usage before connecting to the network.
@@ -72,6 +73,7 @@ Here are some general radio etiquette guidelines:
 - Ensure that there are no network restrictions in place.
 - Ensure that you have a microphone connected.
 - Ensure that you have multiplayer enabled.
+- Ensure that you are using Google Chrome
 
 ### Peers showing "Connected", but no audio:
 - Ensure that you have set your audio device properly in your OS settings.
